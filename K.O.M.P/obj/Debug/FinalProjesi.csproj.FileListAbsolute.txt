@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\FinalProjesi\bin\Debug\FinalProjesi.exe.config
+C:\Users\Lenovo\Desktop\FinalProjesi\bin\Debug\FinalProjesi.exe
+C:\Users\Lenovo\Desktop\FinalProjesi\bin\Debug\FinalProjesi.pdb
+C:\Users\Lenovo\Desktop\FinalProjesi\obj\Debug\FinalProjesi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\FinalProjesi\obj\Debug\FinalProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\FinalProjesi\obj\Debug\FinalProjesi.Depo.resources
+C:\Users\Lenovo\Desktop\FinalProjesi\obj\Debug\FinalProjesi.Form1.resources
+C:\Users\Lenovo\Desktop\FinalProjesi\obj\Debug\FinalProjesi.FormGirisVeKayit.resources
+C:\Users\Lenovo\Desktop\FinalProjesi\obj\Debug\FinalProjesi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\FinalProjesi\obj\Debug\FinalProjesi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\FinalProjesi\obj\Debug\FinalProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\FinalProjesi\obj\Debug\FinalProjesi.exe
+C:\Users\Lenovo\Desktop\FinalProjesi\obj\Debug\FinalProjesi.pdb
+C:\Users\Lenovo\Desktop\FinalProjesi\obj\Debug\FinalProjesi.KayitFormu.resources
+C:\Users\Lenovo\Desktop\FinalProjesi\obj\Debug\FinalProjesi.KisiselSayfa.resources
+C:\Users\Lenovo\Desktop\FinalProjesi\obj\Debug\FinalProjesi.KartBilgileri.resources
